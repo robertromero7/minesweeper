@@ -1,5 +1,3 @@
-package cmp168Project2;
-
 public class ShowMS {
 
 	public static void main(String [] args) {
