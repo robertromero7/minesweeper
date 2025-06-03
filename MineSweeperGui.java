@@ -1,5 +1,3 @@
-package cmp168Project2;
-
 import java.awt.BorderLayout;
 import java.awt.GridLayout;
 import java.awt.Image;
