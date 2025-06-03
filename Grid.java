@@ -1,5 +1,3 @@
-package cmp168Project2;
-
 public class Grid {
 	
 	private boolean bombGrid [][];
